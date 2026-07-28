@@ -24,4 +24,6 @@ dist-ssr
 *.sw?
 
 # Vercel
-.vercel
+.vercel.vercel-cache/
+.vercel/
+.vercel-cache/
